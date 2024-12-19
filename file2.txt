@@ -1,0 +1,4 @@
+this is a devops session
+cloud and terraform
+docker kubernetes
+ansible jenkins
