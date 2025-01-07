@@ -6,3 +6,7 @@ terraform {
 	"
 }
 
+resources "aws_instance" "ec2" {
+}
+
+
