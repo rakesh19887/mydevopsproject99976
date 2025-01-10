@@ -13,3 +13,7 @@ resources "aws_instance" "ec2" {
 pipeline {
 # //groovy script
 # }
+
+stage {
+
+}
